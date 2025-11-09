@@ -2,10 +2,8 @@
 
 ## 👤 Identitas
 | | |
-| -------- | --------------------- |
 | **Nama** | Muhammad Anshar Putra |
 | **NIM**  | F1D02310078           |
-| -------- | --------------------- |
 
 
 ## Deskripsi Aplikasi
